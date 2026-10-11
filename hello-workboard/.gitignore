@@ -1,0 +1,2 @@
+# Claude Code가 Mod를 불러올 때마다 다시 쓰는 타입 선언
+.claude-plugin/types/
